@@ -1,6 +1,9 @@
 # Hi, I'm Aarush 👋
 
 🎓 BTech 2nd Year Student | 💻 Aspiring Software & Game Developer | 🚀 Building My Coding Journey
+## 📊 GitHub Stats
+![Aarush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarush01k&show_icons=true&theme=tokyonight)
+
 
 ## 👨‍💻 Skills
 - 🌐 Web Development: HTML, CSS, JavaScript (Learning React)
